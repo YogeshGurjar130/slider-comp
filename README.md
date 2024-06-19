@@ -1,3 +1,4 @@
+# slider-comp
 # Slider Component - React Native
 React Native Carousel Component UI </br>
 
