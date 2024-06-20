@@ -1,4 +1,4 @@
-# Slider Component - React Natibe
+# Slider Component - React Native
 React Native Carousel Component UI </br>
 
 # Libraries used 
